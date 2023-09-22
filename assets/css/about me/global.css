@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kite-one: "Kite One";
+  --font-luckiest-guy: "Luckiest Guy";
+}
